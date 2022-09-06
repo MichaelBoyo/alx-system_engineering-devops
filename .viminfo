@@ -12,13 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wqa
-|2,0,1662501405,,"wqa"
+|2,0,1662502393,,"wqa"
+:q
+|2,0,1662502185,,"q"
+::
+|2,0,1662502179,,":"
 :qa
 |2,0,1662192691,,"qa"
 :qa!
 |2,0,1662191800,,"qa!"
-:q
-|2,0,1662191594,,"q"
 :qwa
 |2,0,1661012761,,"qwa"
 :diffg LO
@@ -52,28 +54,40 @@
 |3,1,36,0,1,0,1662192614,"x"
 
 # File marks:
-'0  1  59  ~/README.md
-|4,48,1,59,1662501405,"~/README.md"
-'1  1  14  ~/0x03-shell_variables_expansions/0-alias
-|4,49,1,14,1662501154,"~/0x03-shell_variables_expansions/0-alias"
-'2  1  13  ~/0x03-shell_variables_expansions/0-alias
-|4,50,1,13,1662500964,"~/0x03-shell_variables_expansions/0-alias"
-'3  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
-|4,51,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
-'4  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,52,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
-'5  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
-|4,53,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
-'6  1  0  ~/0x00-shell_basics/README.md
-|4,54,1,0,1662192618,"~/0x00-shell_basics/README.md"
-'7  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,55,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
-'8  1  0  ~/alx-system_engineering-devops/0x00-shell_basics
-|4,56,1,0,1662191908,"~/alx-system_engineering-devops/0x00-shell_basics"
-'9  1  0  ~/alx-system_engineering-devops/0x00-shell_basics
-|4,57,1,0,1662191836,"~/alx-system_engineering-devops/0x00-shell_basics"
+'0  2  14  ~/0x03-shell_variables_expansions/0-alias
+|4,48,2,14,1662502393,"~/0x03-shell_variables_expansions/0-alias"
+'1  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,49,1,0,1662502185,"~/0x03-shell_variables_expansions/0-alias"
+'2  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,50,1,0,1662502185,"~/0x03-shell_variables_expansions/0-alias"
+'3  1  59  ~/README.md
+|4,51,1,59,1662501405,"~/README.md"
+'4  1  59  ~/README.md
+|4,52,1,59,1662501405,"~/README.md"
+'5  1  14  ~/0x03-shell_variables_expansions/0-alias
+|4,53,1,14,1662501154,"~/0x03-shell_variables_expansions/0-alias"
+'6  1  14  ~/0x03-shell_variables_expansions/0-alias
+|4,54,1,14,1662501154,"~/0x03-shell_variables_expansions/0-alias"
+'7  1  13  ~/0x03-shell_variables_expansions/0-alias
+|4,55,1,13,1662500964,"~/0x03-shell_variables_expansions/0-alias"
+'8  1  13  ~/0x03-shell_variables_expansions/0-alias
+|4,56,1,13,1662500964,"~/0x03-shell_variables_expansions/0-alias"
+'9  1  13  ~/0x03-shell_variables_expansions/0-alias
+|4,57,1,13,1662500964,"~/0x03-shell_variables_expansions/0-alias"
 
 # Jumplist (newest first):
+-'  2  14  ~/0x03-shell_variables_expansions/0-alias
+|4,39,2,14,1662502393,"~/0x03-shell_variables_expansions/0-alias"
+-'  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,39,1,0,1662502272,"~/0x03-shell_variables_expansions/0-alias"
+-'  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,39,1,0,1662502185,"~/0x03-shell_variables_expansions/0-alias"
+-'  1  59  ~/README.md
+|4,39,1,59,1662501405,"~/README.md"
+-'  1  59  ~/README.md
+|4,39,1,59,1662501405,"~/README.md"
+-'  1  59  ~/README.md
+|4,39,1,59,1662501405,"~/README.md"
 -'  1  59  ~/README.md
 |4,39,1,59,1662501405,"~/README.md"
 -'  1  14  ~/0x03-shell_variables_expansions/0-alias
@@ -100,6 +114,46 @@
 |4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
 -'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
 |4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  2  3  ~/alx-system_engineering-devops/0x00-shell_basics
+|4,39,2,3,1662193570,"~/alx-system_engineering-devops/0x00-shell_basics"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
 -'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
 |4,39,9,38,1662193119,"~/0x00-shell_basics/0-current_working_directory.sh"
 -'  9  38  ~/0x00-shell_basics/0-current_working_directory.sh
@@ -132,6 +186,26 @@
 |4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
 -'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
 |4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory.sh
+|4,39,1,0,1662193110,"~/0x00-shell_basics/0-current_working_directory.sh"
 -'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
 |4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
 -'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
@@ -164,118 +238,55 @@
 |4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
 -'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
 |4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
+-'  1  0  ~/0x00-shell_basics/.git/MERGE_MSG
+|4,39,1,0,1662192691,"~/0x00-shell_basics/.git/MERGE_MSG"
 -'  1  0  ~/0x00-shell_basics/README.md
 |4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  1  0  ~/0x00-shell_basics/README.md
-|4,39,1,0,1662192618,"~/0x00-shell_basics/README.md"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
--'  9  41  ~/0x00-shell_basics/0-current_working_directory.sh
-|4,39,9,41,1662192143,"~/0x00-shell_basics/0-current_working_directory.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x03-shell_variables_expansions/0-alias
+	*	1662502390	0
+	"	2	14
+	^	2	15
+	.	3	0
+	+	1	10
+	+	1	12
+	+	3	0
 
 > ~/README.md
 	*	1662501399	0
@@ -283,13 +294,6 @@
 	^	1	60
 	.	1	59
 	+	1	59
-
-> ~/0x03-shell_variables_expansions/0-alias
-	*	1662501152	0
-	"	1	14
-	^	1	15
-	.	1	15
-	+	1	15
 
 > ~/alx-system_engineering-devops/0x00-shell_basics
 	*	1662193570	0
