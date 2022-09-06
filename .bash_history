@@ -392,3 +392,92 @@ git ststus
 git status
 clear
 exit
+ls
+cd root
+ls
+mkdir  alx-system_engineering-devops
+cd alx-system_engineering-devops/
+touch 0x00-shell_basics
+vi 0x00-shell_basics 
+cat 0x00-shell_basics 
+vim 0x00-shell_basics 
+cat 0x00-shell_basics 
+clear
+cat 0x00-shell_basics 
+vi 0x00-shell_basics 
+cat 0x00-shell_basics 
+ls
+vi 0x00-shell_basics 
+ls -a
+rm -r .0x00-shell_basics.swp 
+ls -a
+vi 0x00-shell_basics 
+cat 0x00-shell_basics 
+clear
+cd ..
+rm -r alx-system_engineering-devops/
+ls
+mkdir 0x00-shell_basics
+cd 0x0
+cd 0x00-shell_basics/
+touch 0-current_working_directory.sh
+vi 0-current_working_directory.sh
+./0-current_working_directory.sh
+0-current_working_directory.sh
+clear
+ls
+ls -a
+./0-current_working_directory.sh
+cd 
+ls
+cd 0x00-shell_basics/
+git status
+git init
+git add .
+git commit -m "cwd script"
+git remote add origin https://github.com/MichaelBoyo/alx-system_engineering-devops.git
+git branch -M main
+git push -u origin main
+touch README.md
+echo "dev ops at alx">README.md
+cat README.md 
+ls
+git add .
+git commit -m "readme file"
+git push
+car README.md 
+cat README.md 
+vi README.md 
+git add .
+git commit -m "readme"
+git push
+git pull origin main
+git push 
+echo "dev ops at alx">README.md
+git add .
+git commit -m "readme.m"
+git push
+cd ..
+rm -r 0x00-shell_basics/
+mkdir 0x00-shell_basics
+git status
+git init
+cd )x00-s
+cd 0x00-shell_basics/
+touch 0-current_working_directory.sh
+vi 0-current_working_directory.sh 
+cd ..
+ls
+touch README.md
+echo "dev ops at alx"> README.md 
+git add .
+clear
+git ststus
+git ststau
+git status
+git commit -m "pwd script"
+clear
+git remote add origin https://github.com/MichaelBoyo/alx-system_engineering-devops.git
+git branch -M main
+git push -u origin main
+exit
